@@ -1,2 +1,2 @@
-# Infotrixs-August-2023
+# Infotrixs
 Infotrixs August 2023 internships program all codes
